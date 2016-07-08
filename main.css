@@ -1,4 +1,6 @@
 *{box-sizing: Border-box;}
+body{font-family: sans-serif;color: #4D2C73;
+.hidden {display: none;}
 img {max-width:400px;}
 .red_outline {border: 1px solid red;
  padding: 1px 3px 5px 4px; 
@@ -8,7 +10,8 @@ img {max-width:400px;}
   /*top bottom left and right /*/*
 /*padding 5px 4px 3px ; top left right bottom */
 margin: 10px}
-body{font-family: sans-serif;color: 4D2C73;}
+.hidden{display: none;}
+body{font-family: sans-serif;color: #4D2C73;}
 #article1 p {color:blue;}
 a{text-decoration: none: color: firebrick;}
 a:hover {text-decoration: underline; }
