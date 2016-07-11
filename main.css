@@ -16,3 +16,4 @@ body{font-family: sans-serif;color: #4D2C73;}
 a{text-decoration: none: color: firebrick;}
 a:hover {text-decoration: underline; }
 a:active {color: yellow;}
+.min_input{ 500px }
